@@ -89,10 +89,10 @@ python main.py
 * Improve CLI UI
 
 
-
 👨‍💻 Author
 
-Built by **Mehfooz** while learning Python and backend development.
+Built by **Mehfooz** while learning Python and backend development. 
+
 
 
 
