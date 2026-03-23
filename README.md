@@ -16,7 +16,6 @@ It was built as a beginner project to practice **Python fundamentals and CLI pro
 ✔ Continuous running until user exits
 
 
-
  🖥 Example Interaction
 
 
