@@ -93,8 +93,7 @@ python main.py
 <<<<<<< Updated upstream
 Built by **Mehfooz** while learning Python and backend development. 
 =======
-Built by **Mehfooz** while learning Python and backend development.
->>>>>>> Stashed changes
+
 
 
 
