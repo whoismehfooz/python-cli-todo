@@ -16,7 +16,9 @@ It was built as a beginner project to practice **Python fundamentals and CLI pro
 ✔ Continuous running until user exits
 
 
- 🖥 Example Interaction
+
+🖥 Example Interaction
+
 
 
 Welcome to To-Do App 💓
@@ -35,14 +37,16 @@ Tasks:
 1 Learn FastAPI
 
 
- ⚙️ Technologies Used
+
+⚙️ Technologies Used
 
 * 🐍 Python
 * 💻 Command Line Interface (CLI)
 
 
 
- 📂 Project Structure
+📂 Project Structure
+
 
 
 python-cli-todo
@@ -52,12 +56,14 @@ python-cli-todo
 
 
 
- 🚀 How to Run the Project
+🚀 How to Run the Project
 
 1. Clone the repository
 
 
-git clone https://github.com/YOUR_USERNAME/python-cli-todo.git
+
+git clone https://github.com/YOUR\_USERNAME/python-cli-todo.git
+
 
 
 2. Navigate into the project folder
@@ -65,9 +71,11 @@ git clone https://github.com/YOUR_USERNAME/python-cli-todo.git
 cd python-cli-todo
 
 
+
 3. Run the application
 
 python main.py
+
 
 
 📚 What I Learned From This Project
@@ -79,7 +87,8 @@ python main.py
 * Basic **Git and GitHub workflow**
 
 
- 🔮 Future Improvements
+
+🔮 Future Improvements
 
 * Save tasks to a file (persistent storage)
 * Load tasks when the program starts
@@ -88,9 +97,10 @@ python main.py
 * Improve CLI UI
 
 
+
 👨‍💻 Author
 
-Built by **Mehfooz** while learning Python and backend development. 
+Built by **Mehfooz** while learning Python and backend development.!
 
 
 
